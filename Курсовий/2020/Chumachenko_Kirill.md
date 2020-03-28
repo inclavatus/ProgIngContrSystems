@@ -8,5 +8,5 @@ Skills: C/C++ (Microsoft Visual Studio), Html/CSS, Python(PyCharm), MySQL(Mysql 
 
 - Крещенко Павло, github: inclavatus
 
-- Юрін Владислав, github: inclavatus
+- Юрін Владислав, github: HellZet
 
